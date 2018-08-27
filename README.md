@@ -2,7 +2,7 @@
 
 En este repositorio vamos a manejar las consultas de la materia. Del mismo modo que usaríamos el Campus Virtual, vamos a usar los Issues de este repositorio.
 Les pedimos que carguen una foto propia para poder reconocernos y generar una comunidad más integrada.
-
+No se permitirán posts "Off-topic" (que no sean sobre dudas de la materia)
 # Cómo usarlo
 
 Cada duda debería ser una nueva **issue** en la sección de... adivinaste: **issues**
