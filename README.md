@@ -12,7 +12,7 @@ Para las dudas de ejercicios, conviene subir tu solución, o las alternativas qu
 Por cada consulta que tengas, buscá si alguien hizo una pregunta similar previamente. Si la pregunta sigue abierta y vos tenés la misma duda, podés suscribirte a la duda con el botón de Suscribe bajo Notifications. 
 
 Si seguís sin resolver tu duda, creá un nuevo issue usando el botón verde de New. Escribí un título descriptivo para tu pregunta, y explayate en el mensaje contando todos los detalles necesarios. Si tus dudas son muchas, no dudes en crear varios issues, de esa manera ayudás a un mejor entendimiento de la pregunta y mejora el seguimiento de la misma. 
-Podés invitar a otros compañeres tuyoe a que aporten a la pregunta usando las @menciones. Si te parece útil, capturá tu pantalla (con ALT + prt scrn capturás sólo la ventana activa) y subila. Github soporta que pegues cualquier imagen que copies previamente.
+Podés invitar a otr@s compañer@s tuy@s a que aporten a la pregunta usando las @menciones. Si te parece útil, capturá tu pantalla (con ALT + prt scrn capturás sólo la ventana activa) y subila. Github soporta que pegues cualquier imagen que copies previamente.
 
 Cuando consideres que tu duda finalmente fue resuelta, podés cerrar el issue con el botón de Close issue. Toda la pregunta va a seguir disponible; simplemente vamos a considerar que pudiste resolver tu problema.
 
