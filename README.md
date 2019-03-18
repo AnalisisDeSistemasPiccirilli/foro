@@ -42,32 +42,32 @@ Las consultas particulares, dirigilas a <marinaolivella@gmail.com>.
 ### Primer Cuatrimestre 
 
 #### Planificacion
-https://drive.google.com/file/d/0B3ekG2Yp-uB-YXRDejNuNjlUOVE/view?usp=sharing
+<https://drive.google.com/file/d/0B3ekG2Yp-uB-YXRDejNuNjlUOVE/view?usp=sharing>
 
 #### Tabla de Decisión
-https://drive.google.com/open?id=1EUhua8dr1mJfxHA5o1Vf11ScaZ7siGrG
+<https://drive.google.com/open?id=1EUhua8dr1mJfxHA5o1Vf11ScaZ7siGrG>
 
 #### Ciclos de Vida
-https://drive.google.com/open?id=0B3ekG2Yp-uB-VDYyWFdLOVFMd0k
+<https://drive.google.com/open?id=0B3ekG2Yp-uB-VDYyWFdLOVFMd0k>
 
 #### Enfoques Sistémicos
-https://drive.google.com/open?id=0B3ekG2Yp-uB-enFXd2dHSFlFcG8
+<https://drive.google.com/open?id=0B3ekG2Yp-uB-enFXd2dHSFlFcG8>
 
 ### Segundo Cuatrimestre 
 
 #### Diagrama de Flujo de Datos + Diccionario de Datos
-https://drive.google.com/open?id=0B9oxJjNCGNPCQm1iU004S3JZMUE
+<https://drive.google.com/open?id=0B9oxJjNCGNPCQm1iU004S3JZMUE>
 
 #### Diagrama de Entidad-Relación
-https://drive.google.com/open?id=1f1CcKUDBfLYFKZY3jn7WtSVFF-T7qiEN
+<https://drive.google.com/open?id=1f1CcKUDBfLYFKZY3jn7WtSVFF-T7qiEN>
 
 #### UML
-https://drive.google.com/open?id=0B3ekG2Yp-uB-N004OU4yZFRvQ28
+<https://drive.google.com/open?id=0B3ekG2Yp-uB-N004OU4yZFRvQ28>
 
 #### Casos de Uso
-https://drive.google.com/open?id=0B3ekG2Yp-uB-eGQxc3k5d0pqMmc
+<https://drive.google.com/open?id=0B3ekG2Yp-uB-eGQxc3k5d0pqMmc>
 
 #### User Stories
-https://drive.google.com/open?id=0B3ekG2Yp-uB-WnVtMi15Tkh1azg
+<https://drive.google.com/open?id=0B3ekG2Yp-uB-WnVtMi15Tkh1azg>
 
 
